@@ -112,7 +112,7 @@ tg-support-bot/
 ### Using `setup.sh` (recommended)
 
 ```bash
-git clone <repo-url> tg-support-bot
+git clone https://github.com/greenpandorik/tg-support-bot.git tg-support-bot
 cd tg-support-bot
 cp .env.example .env
 # Edit .env with your values
@@ -231,7 +231,7 @@ Telegram-бот, который связывает пользователей в
 ### Через `setup.sh` (рекомендуется)
 
 ```bash
-git clone <repo-url> tg-support-bot
+git clone https://github.com/greenpandorik/tg-support-bot.git tg-support-bot
 cd tg-support-bot
 cp .env.example .env
 # Заполните .env нужными значениями
