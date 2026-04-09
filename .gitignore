@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Runtime data
+.data/
+redis/data/
+.logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
